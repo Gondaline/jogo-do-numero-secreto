@@ -1,7 +1,7 @@
 # 🎯 Jogo do Número Secreto
 
 Este é um projeto simples criado para praticar lógica de programação com JavaScript.  
-O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 0 e 10.
+O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente entre 0 e 100.
 
 ## 🔊 Funcionalidade extra
 
