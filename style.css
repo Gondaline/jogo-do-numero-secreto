@@ -85,6 +85,25 @@ body::before {
     font-family: 'Inter', sans-serif;
 }
 
+.rvNotification {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.rvTextRow {
+    color: rgb(0, 0, 0);
+}
+
+.rvTextRow strong{
+    color: rgb(0, 0, 0);
+}
+
+.rvButtonRow{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .container__botoes {
     display: flex;
     gap: 2em;
